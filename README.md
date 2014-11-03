@@ -1,4 +1,4 @@
-2015.cssday.it
-==============
+oneday-conf-template
+====================
 
-la prima conferenza italiana dedicata ai CSS
+base repo for one day conferences
