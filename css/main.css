@@ -690,6 +690,7 @@ a:hover.slides{
 .sponsors .banner img{
 	width: 100%;
 	height: auto;
+	background-color: white;
 }
 
 .sponsors h4 {
