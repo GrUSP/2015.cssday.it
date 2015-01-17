@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6aa804b-ae86-4c39-ac59-fcaf08aed8b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/section-speakers.html" afterPath="$PROJECT_DIR$/_includes/section-speakers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/places/faenza.html" afterPath="$PROJECT_DIR$/_includes/places/faenza.html" />
     </list>
     <ignored path="2015.cssday.it.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="5400" max-vertical-offset="14205">
-              <caret line="888" column="0" selection-start-line="888" selection-start-column="0" selection-end-line="888" selection-end-column="0" />
+              <caret line="375" column="10" selection-start-line="375" selection-start-column="10" selection-end-line="375" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -52,7 +49,7 @@
       <file leaf-file-name="section-sponsors.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/section-sponsors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1920">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="165" max-vertical-offset="1920">
               <caret line="11" column="194" selection-start-line="11" selection-start-column="194" selection-end-line="11" selection-end-column="194" />
               <folding />
             </state>
@@ -79,10 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section-speakers.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="faenza.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/places/faenza.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3258427" vertical-offset="519" max-vertical-offset="1320">
+              <caret line="52" column="177" selection-start-line="52" selection-start-column="177" selection-end-line="52" selection-end-column="177" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="section-speakers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/section-speakers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.13108614" vertical-offset="915" max-vertical-offset="2205">
+            <state vertical-scroll-proportion="4.375" vertical-offset="915" max-vertical-offset="2205">
               <caret line="54" column="76" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
               <folding />
             </state>
@@ -111,12 +118,12 @@
         <option value="$PROJECT_DIR$/_includes/section-contents.html" />
         <option value="$PROJECT_DIR$/_includes/section-sponsors.html" />
         <option value="$PROJECT_DIR$/_includes/places/marche.html" />
-        <option value="$PROJECT_DIR$/_includes/places/faenza.html" />
         <option value="$PROJECT_DIR$/_includes/section-cfp.html" />
         <option value="$PROJECT_DIR$/_layouts/cssday.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/section-speakers.html" />
+        <option value="$PROJECT_DIR$/_includes/places/faenza.html" />
       </list>
     </option>
   </component>
@@ -634,25 +641,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section-sponsors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1920">
-          <caret line="11" column="194" selection-start-line="11" selection-start-column="194" selection-end-line="11" selection-end-column="194" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/places/marche.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.020297699" vertical-offset="0" max-vertical-offset="1605">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/places/faenza.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4614344" vertical-offset="0" max-vertical-offset="1305">
-          <caret line="72" column="1280" selection-start-line="72" selection-start-column="1280" selection-end-line="72" selection-end-column="1280" />
         </state>
       </provider>
     </entry>
@@ -671,10 +663,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/_includes/section-speakers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5400" max-vertical-offset="14205">
-          <caret line="888" column="0" selection-start-line="888" selection-start-column="0" selection-end-line="888" selection-end-column="0" />
+        <state vertical-scroll-proportion="4.375" vertical-offset="915" max-vertical-offset="2205">
+          <caret line="54" column="76" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section-sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1920">
+          <caret line="11" column="194" selection-start-line="11" selection-start-column="194" selection-end-line="11" selection-end-column="194" />
           <folding />
         </state>
       </provider>
@@ -687,6 +687,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5400" max-vertical-offset="14205">
+          <caret line="375" column="10" selection-start-line="375" selection-start-column="10" selection-end-line="375" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="465">
@@ -695,10 +703,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section-speakers.html">
+    <entry file="file://$PROJECT_DIR$/_includes/places/faenza.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.13108614" vertical-offset="915" max-vertical-offset="2205">
-          <caret line="54" column="76" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
+        <state vertical-scroll-proportion="0.3258427" vertical-offset="519" max-vertical-offset="1320">
+          <caret line="52" column="177" selection-start-line="52" selection-start-column="177" selection-end-line="52" selection-end-column="177" />
           <folding />
         </state>
       </provider>
